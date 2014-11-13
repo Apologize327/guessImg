@@ -1,3 +1,3 @@
 guessImg
 ========
-彩图游戏的小demo
+猜图游戏的小demo
